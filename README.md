@@ -1,7 +1,11 @@
 # Adaptive Steganography-Based Secure Communication System
 
 ## Overview
+## Screenshots
 
+### Application Interface
+
+![Application Screenshot](screenshots/image1.png)
 A secure communication system that combines cryptography and adaptive image steganography to protect confidential information. The system analyzes message sensitivity, applies suitable security measures, and securely hides messages inside digital images.
 
 ## Project Structure
